@@ -7,3 +7,4 @@ pub mod rename;
 pub mod linked_editing;
 pub mod document_links;
 pub mod formatting;
+pub mod xpath;

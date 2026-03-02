@@ -2,6 +2,7 @@ mod parser;
 mod language_facts;
 mod server;
 mod services;
+pub mod custom_capabilities;
 
 use tower_lsp::{LspService, Server};
 
