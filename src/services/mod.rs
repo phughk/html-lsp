@@ -1,0 +1,9 @@
+pub mod completion;
+pub mod hover;
+pub mod document_symbols;
+pub mod document_highlight;
+pub mod folding;
+pub mod rename;
+pub mod linked_editing;
+pub mod document_links;
+pub mod formatting;
